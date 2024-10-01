@@ -53,9 +53,9 @@ df_SocialMedia.groupby(['Platform'])['Total Time Spent'].mean().sort_values(asce
 plt.title('Average Total Time Spent on Platform by User')
 plt.ylabel('Average Time Spent')
 plt.show()
-Resultados Esperados
+# Resultados Esperados
 A partir das análises, esperamos obter uma visão clara de como os diferentes fatores (como idade, profissão e localização) influenciam o tempo gasto nas redes sociais. Além disso, os resultados podem ser usados para promover um uso mais equilibrado das plataformas e aumentar a produtividade pessoal e profissional.
 
-Conclusão
+# Conclusão
 Este projeto oferece uma perspectiva valiosa sobre o impacto das redes sociais na vida moderna. As descobertas podem ajudar indivíduos e empresas a gerenciar melhor o tempo gasto nas plataformas digitais.
 
